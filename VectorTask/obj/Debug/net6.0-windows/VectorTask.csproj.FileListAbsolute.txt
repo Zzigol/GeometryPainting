@@ -1,0 +1,12 @@
+C:\Users\grinn\source\repos\VectorTask\VectorTask\obj\Debug\net6.0-windows\VectorTask.csproj.AssemblyReference.cache
+C:\Users\grinn\source\repos\VectorTask\VectorTask\obj\Debug\net6.0-windows\VectorTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grinn\source\repos\VectorTask\VectorTask\obj\Debug\net6.0-windows\VectorTask.AssemblyInfoInputs.cache
+C:\Users\grinn\source\repos\VectorTask\VectorTask\obj\Debug\net6.0-windows\VectorTask.AssemblyInfo.cs
+C:\Users\grinn\source\repos\VectorTask\VectorTask\obj\Debug\net6.0-windows\VectorTask.csproj.CoreCompileInputs.cache
+C:\Users\grinn\source\repos\VectorTask\VectorTask\bin\Debug\net6.0-windows\VectorTask.deps.json
+C:\Users\grinn\source\repos\VectorTask\VectorTask\bin\Debug\net6.0-windows\VectorTask.dll
+C:\Users\grinn\source\repos\VectorTask\VectorTask\bin\Debug\net6.0-windows\VectorTask.pdb
+C:\Users\grinn\source\repos\VectorTask\VectorTask\obj\Debug\net6.0-windows\VectorTask.dll
+C:\Users\grinn\source\repos\VectorTask\VectorTask\obj\Debug\net6.0-windows\refint\VectorTask.dll
+C:\Users\grinn\source\repos\VectorTask\VectorTask\obj\Debug\net6.0-windows\VectorTask.pdb
+C:\Users\grinn\source\repos\VectorTask\VectorTask\obj\Debug\net6.0-windows\ref\VectorTask.dll

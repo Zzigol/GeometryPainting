@@ -1,0 +1,13 @@
+C:\Users\grinn\source\repos\VectorTask\bin\Debug\GeometryPainting.exe.config
+C:\Users\grinn\source\repos\VectorTask\bin\Debug\GeometryPainting.exe
+C:\Users\grinn\source\repos\VectorTask\bin\Debug\GeometryPainting.pdb
+C:\Users\grinn\source\repos\VectorTask\bin\Debug\VectorTask.dll
+C:\Users\grinn\source\repos\VectorTask\bin\Debug\VectorTask.pdb
+C:\Users\grinn\source\repos\VectorTask\obj\Debug\GeometryPainting.csproj.AssemblyReference.cache
+C:\Users\grinn\source\repos\VectorTask\obj\Debug\GeometryPainting.csproj.SuggestedBindingRedirects.cache
+C:\Users\grinn\source\repos\VectorTask\obj\Debug\GeometryPainting.Properties.Resources.resources
+C:\Users\grinn\source\repos\VectorTask\obj\Debug\GeometryPainting.csproj.GenerateResource.cache
+C:\Users\grinn\source\repos\VectorTask\obj\Debug\GeometryPainting.csproj.CoreCompileInputs.cache
+C:\Users\grinn\source\repos\VectorTask\obj\Debug\GeometryPainting.csproj.CopyComplete
+C:\Users\grinn\source\repos\VectorTask\obj\Debug\GeometryPainting.exe
+C:\Users\grinn\source\repos\VectorTask\obj\Debug\GeometryPainting.pdb
